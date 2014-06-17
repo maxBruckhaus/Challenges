@@ -16,4 +16,3 @@ public class FizzBuzz {
         }
     }
 }
-// My first fizzbuzz or something
